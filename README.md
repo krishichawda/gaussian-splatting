@@ -66,18 +66,6 @@ The model consists of:
 3. **3D Gaussian Predictor**: Predicts 3D Gaussian parameters
 4. **Renderer**: 3D Gaussian Splatting renderer
 
-## Citation
-
-If you use this code, please cite:
-
-```bibtex
-@article{gaussian_splatting_2024,
-  title={Generalizable Sparse-View 3D Object Reconstruction with 3D Gaussian Splatting},
-  author={Your Name},
-  journal={arXiv preprint},
-  year={2024}
-}
-```
 
 ## License
 
